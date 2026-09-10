@@ -1,0 +1,3 @@
+texture: 137046249779196
+id: 124132845743329
+recommended size: 0.017
